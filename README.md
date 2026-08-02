@@ -1,92 +1,147 @@
 <h1 align="center">Hi 👋, I'm Neha Jadhav</h1>
-<h3 align="center">🎓 B.Sc. Data Science & Data Analytics Student | 💻 Aspiring Data Scientist | 🌱 Lifelong Learner</h3>
+
+<h3 align="center">
+🎓 B.Sc. Data Science & Data Analytics Student <br>
+💻 Aspiring Data Scientist | Learning C & Python
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Learning+C+Programming;Exploring+Data+Science;Future+Data+Analyst;Building+Projects+One+Step+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Learning+C+Programming;Future+Data+Scientist;Building+Projects+Every+Day;Always+Learning+Something+New" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-- 🎓 B.Sc. Data Science & Data Analytics Student
-- 🌱 Currently learning **C Programming**
-- 📚 Next: **Python, SQL, Statistics & Machine Learning**
-- 💡 Interested in **Data Science, Data Analytics, AI, and Software Development**
-- 🎯 Goal: Build real-world projects and become a skilled Data Scientist
-- 🚀 Every project is a step toward improving my skills.
+🎓 B.Sc. Data Science & Data Analytics Student
 
----
+🌱 Currently learning **C Programming**
 
-## 🛠️ Tech Stack
+🐍 Next learning **Python**
 
-### Currently Learning
+📊 Interested in **Data Science, AI & Analytics**
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,git,github,vscode" />
-</p>
-
-### Future Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,tensorflow" />
-</p>
+🚀 Goal: Become a Data Scientist and build impactful projects.
 
 ---
 
-## 📈 GitHub Stats
+# 🛠 Languages & Tools
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadhavneha1011-code&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavneha1011-code&layout=compact&theme=tokyonight"/>
+
+<img src="https://skillicons.dev/icons?i=c" />
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<img src="https://skillicons.dev/icons?i=git" />
+
+<img src="https://skillicons.dev/icons?i=github" />
+
+<img src="https://skillicons.dev/icons?i=vscode" />
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📈 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=jadhavneha1011-code&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadhavneha1011-code&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavneha1011-code&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/jadhavneha1011-code/jadhavneha1011-code/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<img src="https://streak-stats.demolab.com?user=jadhavneha1011-code&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🎯 2026 Goals
+# 📊 GitHub Activity Graph
 
-- ✅ Learn C Programming
-- ⬜ Learn Python
-- ⬜ Learn SQL
-- ⬜ Build 10+ GitHub Projects
-- ⬜ Learn Data Visualization
-- ⬜ Explore Machine Learning
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jadhavneha1011-code&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
-## 📚 Current Focus
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jadhavneha1011-code&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/jadhavneha1011-code/jadhavneha1011-code/output/github-contribution-grid-snake.svg" alt="snake"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Learn C Programming
+
+⬜ Learn Python
+
+⬜ Learn SQL
+
+⬜ Learn Data Visualization
+
+⬜ Learn Machine Learning
+
+⬜ Build 15+ Projects
+
+⬜ Contribute to Open Source
+
+---
+
+# 📚 Current Progress
 
 ```text
-C Programming        ███████░░░ 70%
-Git & GitHub         ██████░░░░ 60%
-Python               █░░░░░░░░░ 10%
-Data Science         █░░░░░░░░░ 10%
+C Programming      ███████░░░░░   60%
+Python             █░░░░░░░░░░░   10%
+Git & GitHub       █████░░░░░░░   45%
+Data Science       ██░░░░░░░░░░   15%
 ```
 
 ---
 
-## 💬 Quote
+# 📫 Connect With Me
 
-> **"Every expert was once a beginner. Every commit is a step forward."** 🚀
+<p align="left">
+
+<a href="https://github.com/jadhavneha1011-code">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+
+⭐ **Thanks for visiting my profile!** ⭐
+
+*"Every expert was once a beginner."*
+
 </p>
